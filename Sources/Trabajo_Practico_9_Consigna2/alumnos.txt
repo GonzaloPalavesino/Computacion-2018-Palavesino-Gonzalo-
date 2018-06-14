@@ -1,0 +1,7 @@
+#materia Informatica Ingenieria A Ramirez
+#alumno Pedero Perez 10
+#examen Fisica 18/05/2019 8 45 1
+#examen Calculo 18/05/2019 8 45 1
+#alumno Gonzalo Palavesino 20
+#examen Fisica 18/05/2019 9 45 6
+#examen Calculo 18/05/2019 8 45 1

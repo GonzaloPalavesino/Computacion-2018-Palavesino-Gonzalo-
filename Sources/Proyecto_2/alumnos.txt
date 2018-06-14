@@ -1,3 +1,0 @@
-#materia Calculo Ingenieria A Ramirez
-#alumno Jose Perez 10
-#examen Computacion 18/05/2018 10 35 1
