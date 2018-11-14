@@ -36,9 +36,9 @@ void Fecha::setMes(int mes) {
 
 Fecha::Fecha() {
 	// TODO Auto-generated constructor stub
-	dia = 1;
-	mes = 1;
-	anho = 1980;
+	dia = NULL;
+	mes = NULL;
+	anho = NULL;
 
 }
 
@@ -55,7 +55,7 @@ void Fecha::input() {
 	cin >> dia;
 	cout << "\nIngrese el mes : ";
 	cin >> mes;
-	cout << "\nIngrese el año : ";
+	cout << "\nIngrese el aï¿½o : ";
 	cin >> anho;
 }
 

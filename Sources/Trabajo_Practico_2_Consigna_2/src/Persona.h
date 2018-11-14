@@ -8,9 +8,9 @@
 #ifndef PERSONA_H_
 #define PERSONA_H_
 #include "Fecha.h"
-
-using namespace std;
 #include <iostream>
+using namespace std;
+
 
 class Persona {
 	

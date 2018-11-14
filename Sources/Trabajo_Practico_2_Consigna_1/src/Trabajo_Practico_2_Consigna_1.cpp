@@ -11,10 +11,11 @@
 #include "Fecha.h"
 using namespace std;
 
+
 int main() {
 
 	int a;
-	Fecha f1(01,01,1980);
+	Fecha f1;
 	Fecha f2;
 
 

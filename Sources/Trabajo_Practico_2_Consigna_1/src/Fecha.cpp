@@ -60,7 +60,7 @@ void Fecha::input() {
 	cin >> dia;
 	cout << "\nMes : ";
 	cin >> mes;
-	cout << "\nAño :";
+	cout << "\nAï¿½o :";
 	cin >> anho;
 
 
@@ -136,10 +136,11 @@ void Fecha::sumardias(Fecha f2) {
 
 void Fecha::comparar(Fecha f1, Fecha f2) {
 
-
 	if (f1 < f2)
 		cout << "F1 es menor que F2" << endl;
-	else
+	if (f2 < f1)
 		cout << "F1 es mayor que F2" << endl;
+	else
+		cout << "Las Fechas son iguales" << endl;
 
 }
